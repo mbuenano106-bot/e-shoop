@@ -1,3 +1,4 @@
+# Configuración de variables de entorno y base de datos
 import os
 from dotenv import load_dotenv
 
