@@ -1,3 +1,4 @@
+#Maneja el login, registro y cierre de sesión.
 from flask import render_template
 from . import auth_bp
 
