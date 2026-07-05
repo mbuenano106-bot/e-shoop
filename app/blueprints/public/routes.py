@@ -1,3 +1,4 @@
+#Maneja las rutas que cualquiera de los usuarios puede ver
 from flask import render_template
 from . import public_bp
 
