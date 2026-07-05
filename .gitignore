@@ -1,3 +1,4 @@
+# Archivos de base de datos local
 venv/
 .env
 __pycache__
