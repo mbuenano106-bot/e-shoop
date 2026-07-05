@@ -1,3 +1,4 @@
+# Definición del modelo para los productos del sistema
 from app import db
 from datetime import datetime
 
