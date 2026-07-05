@@ -1,3 +1,4 @@
+#Modelo encargado de clasificar los productos
 from app import db
 
 class Categoria(db.Model):
