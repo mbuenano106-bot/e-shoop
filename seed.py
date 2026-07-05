@@ -1,3 +1,4 @@
+# Script para poblar la base de datos con datos de prueba
 from app import create_app, db
 from app.models import Usuario, Categoria, Producto
 
