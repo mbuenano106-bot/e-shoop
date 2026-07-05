@@ -1,3 +1,4 @@
+#Maneja las rutas protegidas para gestionar productos, usuarios, etc.
 from flask import render_template
 from . import admin_bp
 
