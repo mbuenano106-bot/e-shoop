@@ -1,3 +1,4 @@
+# Exportación de modelos para acceso global
 from .usuario import Usuario
 from .categoria import Categoria
 from .producto import Producto
