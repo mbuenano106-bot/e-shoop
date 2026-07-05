@@ -1,3 +1,4 @@
+# Modelo que gestiona el registro de compras
 from app import db
 from datetime import datetime
 
